@@ -1,1 +1,1 @@
-[weather-app]("pwa-weather-web-app123")
+[weather-app]("https://pwa-weather-web-app123.netlify.app/")
