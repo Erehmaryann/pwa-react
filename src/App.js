@@ -18,6 +18,7 @@ const App = () => {
 
   return (
     <div className="main-container">
+      {/* autocomplete for city search */}
       <input
         type="text"
         className="search"
